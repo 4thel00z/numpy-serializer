@@ -1,4 +1,4 @@
-__version__ = "0.1.1"
+__version__ = "0.1.3"
 __doc__ = """
 This is a small package that provides 4 high-level APIs to serialize/deserialize numpy arrays to an object/file, namely:
 

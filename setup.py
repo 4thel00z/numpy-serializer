@@ -9,7 +9,7 @@ except IOError:
 
 setup(
     name="numpy-serializer",
-    version="0.1.2",
+    version="0.1.3",
     description="Preserve numpy arrays shapes while serializing them to bytes",
     license="GPL",
     url="https://github.com/4thel00z/numpy-serializer",
