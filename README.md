@@ -1,5 +1,7 @@
 # numpy-serializer
 
+![numpy-serializer Logo](https://raw.githubusercontent.com/4thel00z/numpy-serializer/master/logo.png)
+
 ## Motivation
 
 I couldn't find a nice high-level package that is fast enough to serialize and deserialize numpy arrays while preserving the type
